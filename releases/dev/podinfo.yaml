@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: shmuelrdt/samuelrepo
-      tag: dev-bpwlz2hs
+      tag: dev-idyh5sku
     replicaCount: 1
     hpa:
       enabled: false
