@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: shmuelrdt/samuelrepo
-      tag: stg-9ij63o4c
+      tag: stg-hdpym7dv
     replicaCount: 2
     hpa:
       enabled: true
