@@ -16,5 +16,5 @@ spec:
   values:
     image:
       repository: shmuelrdt/samuelrepo
-      tag: 0.411
+      tag: 0.4.12
     replicaCount: 3
